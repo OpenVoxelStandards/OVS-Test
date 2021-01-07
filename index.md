@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Open Voxel Standards
 
-You can use the [editor on GitHub](https://github.com/OpenVoxelStandards/OVS-Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Open Voxel Standards (OVS) are a set of open standards for use in
+voxel based games, simulations, and other applications.  They are
+licensed under the GNU Free Documentation License, Version 1.3 or any
+later version published by the [Free Software Foundation].  Code
+included in the the OVS also licensed under the GNU General Public
+License, Version 3.0 or any later version published by the [Free Software
+Foundation].  (See also [GNU Licenses](https://www.gnu.org/licenses/).)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Licensing
 
-### Markdown
+Permission is granted to copy, distribute and/or modify the Open Voxel
+Standards under the terms of the GNU Free Documentation License, Version
+1.3 or any later version published by the [Free Software Foundation];
+see individual standards for details regarding Invariant Sections,
+Front-Cover Texts, and Back-Cover Texts.  A copy of the license is
+included in the section entitled ["GNU Free Documentation License"].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Reference implementations of Open Voxel Standards are free software: you
+can resistribute them and/or modify them under the terms of the GNU
+General Public License as published by the [Free Software Foundation],
+either version 3 of the License, or (at your option) any later version.
 
-```markdown
-Syntax highlighted code block
+Reference implementations of Open Voxel Standards are distributed in the
+hope that they will be useful, but WITHOUT ANY WARRANTY; without even
+the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+PURPOSE.  See the GNU General Public License for more details.
 
-# Header 1
-## Header 2
-### Header 3
+You should have received a copy of the GNU General Public License along
+with the Open Voxel Standards.  If not, see
+<https://www.gnu.org/licenses/>.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenVoxelStandards/OVS-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+["GNU Free Documentation License"]: LICENSE.md
+[Free Software Foundation]: https://fsf.org/
