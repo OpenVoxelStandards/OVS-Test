@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <style>
-    .info td { text-align: left; }
-    .info th { text-align: right; }
-  </style>
-  <title>OVS-3 Legal API</title>
-</head>
-<body>
-<h1>OVS-3 Legal API</h1>
+# OVS-3 Legal API
+
+<style>
+  .info td { text-align: left; }
+  .info th { text-align: right; }
+</style>
+
 <table class="info">
   <tbody>
   <tr>
@@ -30,5 +25,3 @@
   </tr>
   </tbody>
 </table>
-</body>
-</html>
