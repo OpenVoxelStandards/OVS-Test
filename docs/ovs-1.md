@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <style>
-    .info td { text-align: left; }
-    .info th { text-align: right; }
-  </style>
-  <title>OVS-1 Geometry</title>
-</head>
-<body>
-<h1>OVS-1 Geometry</h1>
+# OVS-1 Geometry
+
+<style>
+  .info td { text-align: left; }
+  .info th { text-align: right; }
+</style>
+
 <table class="info">
   <tbody>
   <tr>
@@ -30,5 +25,3 @@
   </tr>
   </tbody>
 </table>
-</body>
-</html>

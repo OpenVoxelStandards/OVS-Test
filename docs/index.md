@@ -26,7 +26,7 @@ copy of the license is included in the section entitled ["GNU Free
 Documentation License"].
 
 [OVS-0]: ovs-0
-[OVS-1]: ovs-1.html
+[OVS-1]: ovs-1
 [OVS-2]: ovs-2.html
 [OVS-3]: ovs-3.html
 [OVS-n]: ovs-n
