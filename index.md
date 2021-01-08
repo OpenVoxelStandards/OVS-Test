@@ -25,10 +25,10 @@ Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A
 copy of the license is included in the section entitled ["GNU Free
 Documentation License"].
 
-[OVS-0]: ovs-0
-[OVS-1]: ovs-1
-[OVS-2]: ovs-2
-[OVS-3]: ovs-3
-[OVS-n]: ovs-n
+[OVS-0]: ovs-0.html
+[OVS-1]: ovs-1.html
+[OVS-2]: ovs-2.html
+[OVS-3]: ovs-3.html
+[OVS-n]: ovs-n.html
 [GNU FDL 1.3 Badge]: https://img.shields.io/badge/License-FDL%20v1.3-blue.svg
-["GNU Free Documentation License"]: LICENSE
+["GNU Free Documentation License"]: license.html
