@@ -31,4 +31,4 @@ Documentation License"].
 [OVS-3]: ovs-3
 [OVS-n]: ovs-n
 [GNU FDL 1.3 Badge]: https://img.shields.io/badge/License-FDL%20v1.3-blue.svg
-["GNU Free Documentation License"]: license.html
+["GNU Free Documentation License"]: LICENSE
